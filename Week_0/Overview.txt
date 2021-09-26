@@ -1,0 +1,9 @@
+In week 0, we will be covering the fundamentals of Computer Science concepts and data structures. 
+
+Concepts 
+1. Time Complexity 
+2. Space Complexity
+
+Data Structures 
+1. Uses of data structures
+2. Importance of data structures in the Software Engineering (SWE) industry
